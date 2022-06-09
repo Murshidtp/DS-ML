@@ -1,4 +1,4 @@
-#Write a program to delete a sentence from the specified position in a file
+# Write a program to delete a sentence from the specified position in a file
 f1=open("demo1.txt","r")
 line=f1.readlines()
 f1.close()
