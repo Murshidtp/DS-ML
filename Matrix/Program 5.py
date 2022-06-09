@@ -1,4 +1,4 @@
-#Matrix operations using numpy
+# Matrix operations using numpy
 import numpy as np
 matrix1 = np.array([[1,3,4],[3,6,2],[5,2,4]])
 matrix2 = np.array([[2,5,6],[5,3,2],[1,2,6]])
