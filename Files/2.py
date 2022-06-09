@@ -6,3 +6,4 @@ for i in f1:
         count += 1
 f1.close()
 print(count)
+
