@@ -1,4 +1,4 @@
-#Write a program to compare two files
+# Write a program to compare two files
 f1=open("demo1.txt","r")
 f2=open("demo2.txt","r")
 i=0
